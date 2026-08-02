@@ -151,5 +151,3 @@ The project successfully:
 - Generated meaningful visualizations
 
 ---
-
-**Project:** Big Data Analytics – Task 1
